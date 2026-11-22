@@ -1,0 +1,23 @@
+{
+  "title": "Análise de Dados de Gastos com Passagens e Hospedagem do Governo Federal (2024)",
+  "upload_type": "software",
+  "description": "Análise exploratória e visualização de dados abertos referentes aos gastos com passagens e diárias/hospedagem do Governo Federal brasileiro no ano de 2024, desenvolvida em Python (Pandas, NumPy, Matplotlib) por meio de notebooks interativos.",
+  "creators": [
+    {
+      "name": "Marinho, Rafael de Barros",
+      "affiliation": "Universidade Federal da Bahia (UFBA) / Universidade Tecnológica Federal do Paraná (UTFPR)",
+      "orcid": "0000-0003-0301-4937"
+    }
+  ],
+  "keywords": [
+    "Dados Abertos",
+    "Governo Federal",
+    "Python",
+    "Análise de Dados",
+    "Portal da Transparência",
+    "Jupyter Notebook",
+    "Transparência Pública"
+  ],
+  "license": "MIT",
+  "language": "por"
+}
